@@ -188,3 +188,4 @@ Note that this license **does not** give free reign to redistribute the name and
 
 
 Water should turn off in sinks if going for longer than 10 minutes 
+Made changes in the repo on git hub
